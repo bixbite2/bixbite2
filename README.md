@@ -1,11 +1,8 @@
-## Eae, tudo certo?👋
+## Olá 👍
 
-Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobile. Adoro aprender coisas novas e trabalhar em projetos inovadores!
+Me chamo Bruno, desenvolvedor amador e estudante da FURG.
 
-- 🚜 Atualmente trabalhando como Desenvolvedor Frontend Web na <a href="http://aired.com.br/#/about">Aired - Inovação em Geotecnologia</a>
 - 💻 Cursando Sistema de Informação na <a href="https://www.furg.br/">FURG</a>
-- 🎓 Formado no curso Técnico de Informática para Internet no <a href="https://ifrs.edu.br/riogrande/">IFRS - Campus Rio Grande</a>
-- 👨🏼‍🦯 Desenvolvedor Full Stack no <a href="#">App para Acessibilidade Qlocal</a>
 
 ### 👨🏻‍💻 Linguagens
 
@@ -23,9 +20,6 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 ### 📞 Podes entrar em contato comigo por aqui:
 
 [<img align="left" width="30px" src="./gmail.png" />][email]
-[<img align="left" width="30px" src="./linkedin.png" />][linkedin]
-[<img align="left" width="30px" src="./twitter.png" />][twitter]
-[<img align="left" width="30px" src="./instagram.png" />][instagram]
 
 <br />
 <br />
@@ -36,18 +30,4 @@ Sou o Victor Amaral, Desenvolvedor Full Stack Júnior de aplicações Web e Mobi
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmaral22&theme=dracula&layout=compact&card_width=445&custom_title=Linguagens+mais+usadas)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[email]: mailto:victortavamaral@gmail.com
-[twitter]: https://twitter.com/VictorA97622430
-[instagram]: https://www.instagram.com/victortamaral/
-[linkedin]: https://www.linkedin.com/in/victor-amaral-621376208/
-
-[js]: https://github.com/VictorAmaral22/POO_Js
-[node]: https://github.com/VictorAmaral22/nodejs-studies
-[css]: https://github.com/VictorAmaral22/HTML-CSS
-[html5]: https://github.com/VictorAmaral22/HTML-CSS
-[react]: https://github.com/VictorAmaral22/reactJs
-[reactnative]: https://github.com/VictorAmaral22/ReactNative
-[sql]: https://github.com/VictorAmaral22/MySQL
-[mysql]: https://github.com/VictorAmaral22/MySQL
-[php]: https://github.com/VictorAmaral22/php-nodestudio
-[git]: https://github.com/VictorAmaral22/Git-cheats
+[email]: mailto:lasdo2@outlook.com
