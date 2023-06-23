@@ -1,12 +1,13 @@
 ## Olá 👍
 
-Me chamo Bruno, desenvolvedor amador e estudante da FURG.
+Me chamo Bruno, desenvolvedor junior e estudante da FURG.
 
 - 💻 Cursando Sistema de Informação na <a href="https://www.furg.br/">FURG</a>
 
 ### 👨🏻‍💻 Linguagens
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
 ### 📞 Podes entrar em contato comigo por aqui:
