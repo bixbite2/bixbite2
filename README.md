@@ -1,6 +1,6 @@
 ## Olá 👍
 
-Me chamo Bruno, desenvolvedor junior e estudante da FURG.
+Me chamo Bruno, sou desenvolvedor junior e estudante da FURG.
 
 - 💻 Cursando Sistema de Informação na <a href="https://www.furg.br/">FURG</a>
 
