@@ -2,7 +2,7 @@
 
 Me chamo Bruno, sou desenvolvedor junior e estudante da FURG.
 
-- 💻 Cursando Sistema de Informação na <a href="https://www.furg.br/">FURG</a>
+- 💻 Cursando Sistemas de Informação na <a href="https://www.furg.br/">FURG</a>
 
 ### 👨🏻‍💻 Linguagens
 
