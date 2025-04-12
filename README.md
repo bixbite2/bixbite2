@@ -23,4 +23,4 @@ Me chamo Bruno, sou desenvolvedor junior e estudante da FURG.
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorAmaral22&theme=dracula&layout=compact&card_width=445&custom_title=Linguagens+mais+usadas)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[email]: mailto:lasdo2@outlook.com
+[email]: mailto:bruno.santos164439@gmail.com
