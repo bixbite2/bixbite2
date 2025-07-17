@@ -19,8 +19,7 @@ Me chamo Bruno, sou desenvolvedor junior e estudante da FURG.
 
 📈 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bixbite2&show_icons=true&count_private=true&theme=dracula&custom_title=Estatísticas+no+Github) -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bixbite2&theme=dracula&layout=compact&card_width=445&custom_title=Linguagens+mais+usadas)](https://github.com/anuraghazra/github-readme-stats) 
+
 [<img align="left" width="30px" src="./gmail.png" />][email]
 [email]: mailto:bruno.santos164439@gmail.com
