@@ -9,7 +9,6 @@ Me chamo Bruno, sou desenvolvedor junior e estudante da FURG.
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
 
 
@@ -22,5 +21,5 @@ Me chamo Bruno, sou desenvolvedor junior e estudante da FURG.
 
 ### 📞 Podes entrar em contato comigo por aqui:
 
-[<img align="left" width="30px" src="./gmail.png" />][email]
+[<img align="left" width="30px" src="./gmail.png" />]
 [email]: mailto:bruno.santos164439@gmail.com
